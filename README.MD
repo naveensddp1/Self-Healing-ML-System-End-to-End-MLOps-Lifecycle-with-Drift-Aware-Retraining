@@ -143,7 +143,7 @@ Every directory exists for a reason.
 ---
 
 ##  API Endpoints
-
+http://44.192.75.196:8000/docs#/default/predict_predict_post
 ### Health Check
 
 ```
